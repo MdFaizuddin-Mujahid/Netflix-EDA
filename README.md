@@ -27,7 +27,7 @@ mymoviedb.csv
 Netflix_EDA/
 ├── Netflix_EDA.ipynb
 ├── mymoviedb.csv
-└── README.md
+├── README.md
 
 ## Status
 Project in progress.
