@@ -30,4 +30,4 @@ Netflix_EDA/
 ├── README.md
 
 ## Status
-Project in progress.
+Project completed.
